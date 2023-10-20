@@ -2,6 +2,10 @@
 // Do not distribute or post in any public or private venue.
 
 // No student changes should be made to this file.
+
+/**
+ * TelevisionTester class
+ */
 public class TelevisionTester {
     public static void main(String[] args) {
         Television myTV = new Television();
